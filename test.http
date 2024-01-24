@@ -1,0 +1,10 @@
+PUT http://localhost:8080/membership/1
+Content-Type: application/json
+
+{
+  "name": "test2",
+  "address": "asdf",
+  "email": "ttt@example.com",
+  "isValid": true,
+  "isCorp": true
+}

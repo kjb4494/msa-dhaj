@@ -1,0 +1,4 @@
+rootProject.name = 'msa-dhaj'
+include 'membership-app'
+include 'core'
+
